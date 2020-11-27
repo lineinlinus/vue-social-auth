@@ -1,5 +1,5 @@
 {
-  "name": "vue-social-auth",
+  "name": "vue-social-auth-lineinlinus",
   "version": "1.4.3",
   "description": "Social Authentication library for laravel with Vue.js (SPA)",
   "main": "dist/vue-social-auth.js",
