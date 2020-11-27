@@ -546,7 +546,7 @@ var defaultOptions = {
       authorizationEndpoint: 'https://www.linkedin.com/oauth/v2/authorization',
       redirectUri: window.location.origin,
       requiredUrlParams: ['state','scope'],
-      scope: ['r_emailaddress'],
+      scope: ['r_emailaddress', 'r_liteprofile'],
       scopeDelimiter: ' ',
       state: 'STATE',
       oauthType: '2.0',
